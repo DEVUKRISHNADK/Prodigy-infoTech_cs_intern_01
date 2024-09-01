@@ -33,7 +33,7 @@ To run this script, you'll need:
 2. Navigate to the project directory:
 
    ```bash
-   cd caesar-cipher
+   cd Prodigy-infoTech_cs_intern_01
    ```
 
 3. No additional libraries are required as this script uses only Python's standard libraries.
